@@ -1,9 +1,9 @@
 # Setup
-title: Not Pure Poole
+title: purple blog
 description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
-paginate: 5
+url: https://yoo-myeong.github.io
+avatar: /purple.jpeg
+paginate: 30
 permalink: pretty
 cover_image: /bg.jpeg
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: yoo myeong
+  url: https://yoo-myeong.github.io
+  email: famousseon@gmail.com
